@@ -1,0 +1,39 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+body {
+    background-color:white;
+}
+
+p {
+    display: block;
+}
+
+div#container {
+    background-color:black;
+    padding:20px;
+}
+
+#file_presentation {
+    color:white;
+}
+
+input {
+    display: block;
+    background-color:white;
+}
+
+.file_section {
+    margin-left:10px;
+    margin-top:10px;
+    display: block;
+}
+
+button#submit_button {
+    background-image: url(../images/submit_btn.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
